@@ -1,7 +1,4 @@
-[![Latest Stable Version](https://poser.pugx.org/snowair/phalcon-debugbar/v/stable)](https://packagist.org/packages/snowair/phalcon-debugbar) 
-[![Total Downloads](https://poser.pugx.org/snowair/phalcon-debugbar/downloads)](https://packagist.org/packages/snowair/phalcon-debugbar) 
-[![Latest Unstable Version](https://poser.pugx.org/snowair/phalcon-debugbar/v/unstable)](https://packagist.org/packages/snowair/phalcon-debugbar) 
-[![License](https://poser.pugx.org/snowair/phalcon-debugbar/license)](https://packagist.org/packages/snowair/phalcon-debugbar)
+[![Latest Stable Version](http://poser.pugx.org/derry/phalcon-debugbar/v)](https://packagist.org/packages/derry/phalcon-debugbar) [![Total Downloads](http://poser.pugx.org/derry/phalcon-debugbar/downloads)](https://packagist.org/packages/derry/phalcon-debugbar) [![Latest Unstable Version](http://poser.pugx.org/derry/phalcon-debugbar/v/unstable)](https://packagist.org/packages/derry/phalcon-debugbar) [![License](http://poser.pugx.org/derry/phalcon-debugbar/license)](https://packagist.org/packages/derry/phalcon-debugbar) [![PHP Version Require](http://poser.pugx.org/derry/phalcon-debugbar/require/php)](https://packagist.org/packages/derry/phalcon-debugbar)
 
 ## Phalcon Debugbar
 
