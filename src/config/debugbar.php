@@ -148,14 +148,14 @@ return array(
         'exceptions'      => true,  // Exception displayer
         'default_request' => false, // Regular or special Symfony request logger
         'phalcon_request' => true,  // Only one can be enabled..
-        'session'         => false,  // Display session data in a separate tab
-        'config'          => false, // Display the config service content
-        'route'           => false, // Display the current route infomations.
+        'session'         => true,  // Display session data in a separate tab
+        'config'          => true, // Display the config service content
+        'route'           => true, // Display the current route infomations.
         'log'             => false, // Display messages of the log service sent.
-        'db'              => false, // Display the sql statments infomations. Just for Phalcon ORM. 'db' and 'doctrine', you only can choose one!
+        'db'              => true, // Display the sql statments infomations. Just for Phalcon ORM. 'db' and 'doctrine', you only can choose one!
         'doctrine'        => false, // Display the sql statments infomations. Just for Doctrine ORM.'db' and 'doctrine', you only can choose one!
-        'view'            => false, // Display the rendered views infomations.
-        'cache'           => false, // Display the cache operation infomations.
+        'view'            => true, // Display the rendered views infomations.
+        'cache'           => true, // Display the cache operation infomations.
         'mail'            => false,
     ),
 
