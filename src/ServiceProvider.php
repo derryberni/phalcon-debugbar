@@ -200,7 +200,7 @@ class ServiceProvider extends Injectable {
                         if($moudleName=$request->get('m')){
                             $this->dispatcher->setModuleName($moudleName);
                             $moudle=$this->di['app']->getModule($moudleName);
-                            require $moudle['path'];
+                            require APP_PATH.$moudle['path'];
                             $moduleObject=$this->di->get($moudle['className']);
                             $moduleObject->registerAutoloaders($this->di);
                             $moduleObject->registerServices($this->di);
